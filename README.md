@@ -52,25 +52,25 @@ Obviously, the two modes do not contradict each other: when a ship is sunk by a 
 - Javadocs for public methods
 - package .jar
 
-## Implementation details##
+## Implementation details ##
 Development timing: 22.10.2021 - 25.10.2021
 
 Project architecture: MVC.
 
 ### User Commands API ###
-"help" - show help panel
+- "help" - show help panel
 
-"exit" - leave game
+- "exit" - leave game
 
-"<T (optional)> <horizontal coordinate> <vertical coordinate>" - to attack ship by coordinates on game board.
+- "<T (optional)> <horizontal coordinate> <vertical coordinate>" - to attack ship by coordinates on game board.
 
 ### Display board ###
-empty cell - you're never attacked this cell.
+- empty cell - you're never attacked this cell.
 
-"." - no ship
+- "." - no ship
 
-"*" - hit
+- "*" - hit
 
-"x" - destroyed
+- "x" - destroyed
 
 Good luck! Play games and have fun!
