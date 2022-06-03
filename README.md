@@ -1,3 +1,4 @@
+Development timing: 22.10.2021 - 25.10.2021
 # Battleship game
 
 ## Specification for development ##
