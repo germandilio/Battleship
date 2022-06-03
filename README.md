@@ -54,7 +54,7 @@ Obviously, the two modes do not contradict each other: when a ship is sunk by a 
 - package .jar
 
 ## Implementation details ##
-Development timing: 22.10.2021 - 25.10.2021
+Development timing: 19.10.2021 - 22.10.2021
 
 Project architecture: MVC.
 
